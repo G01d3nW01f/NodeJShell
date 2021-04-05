@@ -25,7 +25,7 @@ banner = """
 
 """
 usage = f"""
-Usagevv:{sys.argv[0]} <Attacker_IP> <Port>
+Usage  :{sys.argv[0]} <Attacker_IP> <Port>
 Example:{sys.argv[0]} 192.168.0.5 1337
 """
 
